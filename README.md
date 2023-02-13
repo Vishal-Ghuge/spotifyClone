@@ -1,0 +1,2 @@
+# spotifyClone
+ (Tailwind, Redux, RapidAPI)
